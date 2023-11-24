@@ -1,1 +1,1 @@
-# gitlab-ci-prompts
+# GitLab CI prompts
